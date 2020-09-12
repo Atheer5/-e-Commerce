@@ -1,0 +1,83 @@
+
+
+Customizable via Admin-Interface
+
+Optimized for conversion
+
+Customizable via Admin-Interface
+
+Optimized for conversion
+
+Completely responsive
+
+Unlimited color schemes
+
+Completely responsive
+
+Unlimited color schemes
+
+
+
+.contener{
+	width: 60%;
+	max-width:1150px;
+	min-width: 300px;
+	margin-left: 20%;
+	list-style-type: none;
+	margin-top: 0;
+	height: 87px;
+
+}
+.header .nav{
+	width:100%;
+	max-width: 2000px;
+	min-width: 300px;
+	height:87px;
+	background-color: #3B5063;
+}
+.nav .contener .nav_left{
+	float:left;
+	width:20%;
+	height: 87px;
+	padding-top:34.3px;
+	color: #F0F0F0
+
+}
+
+.nav .contener .nav_left .fa-file-text-o{
+	float: left;
+	font-size:1.4vw;
+
+	
+}
+.nav .contener .nav_left h1{
+	float:right;
+	font-size: 1.9vw;
+	
+
+
+}
+
+.nav .contener .nav_right  {
+	width:60%;
+	float: right;
+	padding-top: 31px;
+	margin-top:0;
+
+}
+.nav .contener .nav_right .nav_list a  {
+	text-decoration: none;
+	color: #F0F0F0;
+	font-size: 50%;
+	padding-right:5%;
+}
+.clearboth{
+	clear:both;
+}
+.nav .nav_right .nav_sm a  {
+	font-size: 50%;
+	padding-right: 3%;
+	text-decoration: none;
+	color: #F0F0F0;
+	
+} 
